@@ -33,7 +33,7 @@ Solutions to secure data across it's lifecycle
 - **[Data Loss Prevention (DLP)](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)** - protect sensitive content as its used and shared throughout your organization (cloud, on-prem, on devices)
 - **[Information Barriers](https://learn.microsoft.com/en-us/purview/information-barriers-solution-overview)** - define policies to allow or prevent communications between groups of users in Microsoft Teams
 - **[Information Protection](https://learn.microsoft.com/en-us/purview/information-protection)** - discover, classify and protect sensitive and business critical content across its lifecycle
-- **[Insider Risk Management](https://learn.microsoft.com/en-us/purview/insider-risk-management-solution-overview)** - detect risky user activity to help quickly identify and take action on insier risks
+- **[Insider Risk Management](https://learn.microsoft.com/en-us/purview/insider-risk-management-solution-overview)** - detect risky user activity to help quickly identify and take action on insider risks
 - **[DSPM for AI](https://learn.microsoft.com/en-us/purview/ai-microsoft-purview)** - discover and secure your organization's AI data and activity within Microsoft CoPilot experiences and other gen AI apps in one central location
 
 ## Other
